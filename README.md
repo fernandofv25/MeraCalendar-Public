@@ -1,8 +1,9 @@
 <h1 align="center">MeraCalendar</h1>
 <p align="center"><strong>Una plataforma de calendarios colaborativos, diseñada y desarrollada de extremo a extremo.</strong></p>
 <p align="center">
-  <a href="https://meracalendar.com"><img alt="Aplicación web" src="https://img.shields.io/badge/Explorar_aplicación-meracalendar.com-DC5038?style=for-the-badge"></a>
-  <a href="https://meracalendar.com/public-calendars"><img alt="Calendarios públicos" src="https://img.shields.io/badge/Calendarios-públicos-374151?style=for-the-badge"></a>
+  <a href="https://meracalendar.com"><strong>Acceder a la aplicación</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://meracalendar.com/web/help"><strong>Cómo funciona</strong></a>
 </p>
 <p align="center">Web · iOS · Android</p>
 <p align="center">
